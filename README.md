@@ -1,5 +1,10 @@
-# 📊 Adventure Works Sales Dashboard
+# 📊 Adventure_Works_Sales PowerBi Data Analysis 
   **By Balaji Raut**
+---
+
+## Project Logo
+![Image](https://github.com/user-attachments/assets/e2a987d7-d24b-4fa4-b2de-aa83da4f2c4e)
+
 ---
 
 ## 🚀 Project Overview
